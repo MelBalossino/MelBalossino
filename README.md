@@ -1,4 +1,4 @@
-### Hi there 👋
+![GitHubBanner](https://github.com/MelBalossino/MelBalossino/assets/124601449/c1bfc12f-f708-4d5e-a44c-cbc714e582b2)
 
 <!--
 **MelBalossino/MelBalossino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
