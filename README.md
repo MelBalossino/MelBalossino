@@ -24,6 +24,8 @@
 ## Contacto:
 ¿Tienes un proyecto en mente o simplemente quieres charlar sobre tecnología? ¡Hablemos de cómo podemos ayudarnos mutuamente a crecer y a innovar!. Conectémonos y hagamos que las cosas sucedan! Puedes escribirme a melodibalossino@gmail.com o seguirme en [LinkedIn](https://www.linkedin.com/in/melody-balossino-26745021b).
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **MelBalossino/MelBalossino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
