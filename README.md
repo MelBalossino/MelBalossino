@@ -15,7 +15,7 @@
 ## Stack de tecnologías:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,webpack,redux,nodejs,express,postgres,sequelize,git,github,vscode,figma,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,webpack,redux,nodejs,express,postgres,sequelize,git,github,vscode,figma,materialui,tailwind" />
   </a>
 </p>
 
