@@ -68,10 +68,6 @@ JavaScript               15 repos            ███████████�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
 
  Last Updated on 04/12/2023 15:58:08 UTC
 <!--END_SECTION:waka-->
