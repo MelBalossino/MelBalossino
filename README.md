@@ -29,56 +29,34 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-224.6%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 41.2 kB Used in GitHub's Storage 
- > 
-> 🏆 251 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                277 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-🌆 Daytime                854 commits         █████████████░░░░░░░░░░░░   52.81 % 
+🌞 Morning                277 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+🌆 Daytime                855 commits         █████████████░░░░░░░░░░░░   52.84 % 
 🌃 Evening                164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌙 Night                  322 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+🌙 Night                  322 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  363 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Wednesday                405 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Thursday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Friday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Tuesday                  363 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Wednesday                405 commits         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Thursday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Friday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
 Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity Tracked This Week
-
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -95,7 +73,7 @@ JavaScript               15 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 15:40:38 UTC
+ Last Updated on 04/12/2023 15:58:08 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
