@@ -25,7 +25,75 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 41.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 249 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                277 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+🌆 Daytime                852 commits         █████████████░░░░░░░░░░░░   52.76 % 
+🌃 Evening                164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+🌙 Night                  322 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   201 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Tuesday                  363 commits         ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+Wednesday                405 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Thursday                 171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Friday                   258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Argentina/Buenos_Aires
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            █████████████████████████   100.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
+
+
+ Last Updated on 04/12/2023 15:08:52 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
