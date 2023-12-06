@@ -64,21 +64,6 @@ sunnyside                3 hrs 4 mins        ███████████�
 SERVER                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 CLIENT                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 06/12/2023 00:45:18 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
