@@ -68,20 +68,7 @@ Packar-phone             52 mins             ███░░░░░░░░�
 SERVER                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               17 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 08/12/2023 00:45:07 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
