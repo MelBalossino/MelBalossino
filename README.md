@@ -68,20 +68,6 @@ Full Stack Developer     1 hr 1 min          ██░░░░░░░░░�
 SERVER                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 13/12/2023 00:45:17 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
