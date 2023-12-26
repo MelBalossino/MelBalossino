@@ -66,20 +66,6 @@ Advent-JS-2023           6 mins              ░░░░░░░░░░░�
 Full Stack Developer     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               18 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 26/12/2023 00:43:02 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
