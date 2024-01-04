@@ -61,18 +61,6 @@ JSON                     0 secs              ░░░░░░░░░░░�
 Packar-phone             1 min               █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               18 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
 
  Last Updated on 04/01/2024 00:45:00 UTC
 <!--END_SECTION:waka-->
