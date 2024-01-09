@@ -25,9 +25,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **I'm an Early 🐤** 
 
@@ -54,10 +54,16 @@ Sunday                   79 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
+JavaScript               1 hr 42 mins        █████████████████░░░░░░░░   69.08 % 
+CSS                      24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+HTML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-Packar-phone             0 secs              █████████████████████████   100.00 % 
+trilogy-website          1 hr 45 mins        ██████████████████░░░░░░░   70.76 % 
+PuraVidaViajes           43 mins             ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Packar-phone             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +79,7 @@ JavaScript               18 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2024 00:10:09 UTC
+ Last Updated on 09/01/2024 00:10:05 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
