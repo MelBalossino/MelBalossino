@@ -67,21 +67,6 @@ CLIENT                   18 mins             █░░░░░░░░░░�
 SERVER                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               20 repos            ████████████████████████░   95.24 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 11/01/2024 00:09:49 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
