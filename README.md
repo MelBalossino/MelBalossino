@@ -67,20 +67,7 @@ PuraVidaViajes           1 hr 41 mins        █░░░░░░░░░░�
 CLIENT                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               21 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 15/01/2024 00:10:31 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
