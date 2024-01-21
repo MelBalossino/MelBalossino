@@ -66,20 +66,6 @@ Trilogynewwebsite        28 mins             █░░░░░░░░░░�
 PuraVidaViajes           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 21/01/2024 00:10:54 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
