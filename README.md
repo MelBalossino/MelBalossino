@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **I'm an Early 🐤** 
 
@@ -54,13 +54,13 @@ Sunday                   81 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 57 mins        ███████████████████████░░   91.12 % 
-HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               4 hrs 38 mins       ████████████████████████░   95.33 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-2035-logica-programacion-1 hr 28 mins        █████████████████░░░░░░░░   68.78 % 
-Trilogynewwebsite        40 mins             ████████░░░░░░░░░░░░░░░░░   31.22 % 
+2035-logica-programacion-4 hrs 11 mins       ██████████████████████░░░   86.26 % 
+Trilogynewwebsite        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +76,7 @@ JavaScript               22 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2024 00:09:18 UTC
+ Last Updated on 28/01/2024 00:10:11 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
