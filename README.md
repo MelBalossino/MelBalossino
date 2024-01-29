@@ -63,20 +63,6 @@ CSS                      0 secs              ░░░░░░░░░░░�
 Trilogynewwebsite        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               22 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 29/01/2024 00:09:35 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
