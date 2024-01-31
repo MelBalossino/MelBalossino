@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 **I'm an Early 🐤** 
 
@@ -54,13 +54,14 @@ Sunday                   81 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 38 mins       ████████████████████████░   95.33 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               6 hrs 43 mins       ██████████████████████░░░   87.13 % 
+CSS                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🐱‍💻 Projects: 
-2035-logica-programacion-4 hrs 11 mins       ██████████████████████░░░   86.26 % 
-Trilogynewwebsite        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+2035-logica-programacion-4 hrs 11 mins       ██████████████░░░░░░░░░░░   54.33 % 
+Trilogynewwebsite        3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   40.89 % 
+trilogy-website          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +77,7 @@ JavaScript               22 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2024 00:09:07 UTC
+ Last Updated on 31/01/2024 00:09:35 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
