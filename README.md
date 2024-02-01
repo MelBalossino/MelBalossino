@@ -64,17 +64,6 @@ Trilogynewwebsite        2 hrs 41 mins       █████████░░�
 trilogy-website          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               22 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
  Last Updated on 01/02/2024 00:10:17 UTC
