@@ -54,12 +54,10 @@ Sunday                   81 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 5 mins        ██████████████████░░░░░░░   73.17 % 
-CSS                      46 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Trilogynewwebsite        2 hrs 29 mins       ██████████████████████░░░   87.08 % 
-trilogy-website          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +73,7 @@ JavaScript               22 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2024 00:09:15 UTC
+ Last Updated on 07/02/2024 00:08:56 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
