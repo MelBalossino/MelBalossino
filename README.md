@@ -60,20 +60,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               22 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 17/02/2024 00:09:09 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
