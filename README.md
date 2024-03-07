@@ -10,8 +10,6 @@
 
 💼 Te invito a explorar mi experiencia, la cual abarca desde proyectos personales hasta colaboraciones en equipo, todos los cuales han fortalecido mi capacidad de aprendizaje continuo y me han permitido adaptarme con agilidad.
 
-🤗 Estoy ansiosa por explorar nuevas oportunidades y crear soluciones que hagan eco en el mundo del desarrollo web. 
-
 ## Stack de tecnologías:
 <p align="center">
   <a href="https://skillicons.dev">
