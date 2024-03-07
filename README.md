@@ -54,13 +54,10 @@ Sunday                   82 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 7 mins        ████████████████████░░░░░   78.23 % 
-CSS                      2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-flx-prueba-tecnica       11 hrs 39 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +73,7 @@ JavaScript               22 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2024 00:09:35 UTC
+ Last Updated on 07/03/2024 00:07:52 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
