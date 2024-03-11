@@ -25,7 +25,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **I'm an Early 🐤** 
 
@@ -72,7 +72,7 @@ JavaScript               22 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2024 00:10:15 UTC
+ Last Updated on 11/03/2024 00:09:21 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
