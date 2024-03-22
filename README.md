@@ -63,19 +63,6 @@ social-media-dashboard   9 hrs 35 mins       ███████████�
 sunnyside                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               23 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
  Last Updated on 22/03/2024 00:09:20 UTC
 <!--END_SECTION:waka-->
 
