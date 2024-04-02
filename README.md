@@ -47,31 +47,6 @@ Saturday                 169 commits         ██░░░░░░░░░�
 Sunday                   82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               23 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 02/04/2024 00:09:09 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
