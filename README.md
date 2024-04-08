@@ -60,21 +60,6 @@ HTML                     0 secs              ░░░░░░░░░░░�
 flexxuserpweb            12 hrs 40 mins      █████████████████████████   98.56 % 
 Full Stack Developer     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               23 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
-
- Last Updated on 08/04/2024 00:10:38 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
