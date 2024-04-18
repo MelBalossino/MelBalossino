@@ -23,9 +23,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 **I'm an Early 🐤** 
 
@@ -52,12 +52,12 @@ Sunday                   82 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               24 hrs 5 mins       ███████████████░░░░░░░░░░   59.04 % 
-SQL                      16 hrs              ██████████░░░░░░░░░░░░░░░   39.25 % 
-JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JavaScript               26 hrs 25 mins      ████████████████░░░░░░░░░   64.85 % 
+SQL                      13 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   33.55 % 
+JSON                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🐱‍💻 Projects: 
-flexxuserpweb            40 hrs 47 mins      █████████████████████████   100.00 % 
+flexxuserpweb            40 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ JavaScript               23 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2024 00:09:47 UTC
+ Last Updated on 18/04/2024 00:09:54 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
