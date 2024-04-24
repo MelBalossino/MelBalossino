@@ -23,9 +23,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **I'm an Early 🐤** 
 
@@ -52,14 +52,14 @@ Sunday                   82 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               23 hrs 13 mins      █████████████░░░░░░░░░░░░   51.32 % 
-SQL                      12 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-Less                     9 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JavaScript               26 hrs 23 mins      ██████████████░░░░░░░░░░░   55.16 % 
+SQL                      11 hrs 32 mins      ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Less                     9 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-flexxuserpweb            44 hrs 17 mins      ████████████████████████░   97.85 % 
-flxwebapi                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+flexxuserpweb            46 hrs 28 mins      ████████████████████████░   97.12 % 
+flxwebapi                1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ JavaScript               23 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2024 00:10:00 UTC
+ Last Updated on 24/04/2024 00:09:45 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
