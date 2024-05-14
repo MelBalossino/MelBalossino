@@ -63,18 +63,6 @@ flexxuserpweb            20 hrs 44 mins      ███████████�
 flxwebapi                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               23 repos            █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
-
 
  Last Updated on 14/05/2024 00:09:43 UTC
 <!--END_SECTION:waka-->
