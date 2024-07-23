@@ -23,7 +23,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-722%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,14 +52,14 @@ Sunday                   82 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 hrs 42 mins      ███████████████░░░░░░░░░░   58.56 % 
-JavaScript               18 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.92 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               28 hrs 12 mins      ███████████████░░░░░░░░░░   58.87 % 
+JavaScript               19 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.64 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-flx-payments-gateway     45 hrs 35 mins      █████████████████████████   100.00 % 
+flx-payments-gateway     47 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ JavaScript               23 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 00:10:47 UTC
+ Last Updated on 23/07/2024 00:10:57 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
