@@ -23,7 +23,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,14 +52,13 @@ Sunday                   82 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 12 mins      ███████████████░░░░░░░░░░   58.87 % 
-JavaScript               19 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   40.64 % 
+TypeScript               31 hrs 54 mins      █████████████████░░░░░░░░   67.05 % 
+JavaScript               15 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.65 % 
 JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-flx-payments-gateway     47 hrs 55 mins      █████████████████████████   100.00 % 
+flx-payments-gateway     47 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +74,7 @@ JavaScript               23 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 00:10:57 UTC
+ Last Updated on 24/07/2024 00:11:28 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
