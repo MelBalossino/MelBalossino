@@ -52,14 +52,10 @@ Sunday                   82 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 21 mins       ██████████████████░░░░░░░   72.08 % 
-JavaScript               58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Bash                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-flx-payments-gateway     6 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +71,7 @@ JavaScript               23 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 00:08:57 UTC
+ Last Updated on 01/08/2024 00:11:29 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
