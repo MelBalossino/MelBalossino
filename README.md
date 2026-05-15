@@ -23,40 +23,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-🌆 Daytime                931 commits         █████████████░░░░░░░░░░░░   50.90 % 
-🌃 Evening                239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-🌙 Night                  354 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Tuesday                  391 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
-Wednesday                436 commits         ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Friday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Saturday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Sunday                   82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -71,7 +38,7 @@ JavaScript               23 repos            ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/MelBalossino/MelBalossino/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 00:36:24 UTC
+ Last Updated on 15/05/2026 00:33:19 UTC
 <!--END_SECTION:waka-->
 
 ## Contacto:
